@@ -3,7 +3,7 @@
 :root {
     --bgColor: #000000;
     --bgColor2: #000000;
-    --accentColor: #FFF;
+    --accentColor: #efc9ff;
     --font: 'Karla', sans-serif;
     --delay: .3s;
 }
@@ -26,11 +26,9 @@ body {
 
 #profilePicture, #profilePicture img {
     position: relative;
-    width: 96px;
-    height: 96px;
+    height: 200px;
     display: block;
     margin: 40px auto 20px;
-    border-radius: 50%;
     -webkit-tap-highlight-color: transparent;
 }
 

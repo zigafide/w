@@ -26,7 +26,8 @@ body {
 
 #profilePicture, #profilePicture img {
     position: relative;
-    height: 200px;
+    max-width: 300px;
+    width: auto;
     display: block;
     margin: 40px auto 20px;
     -webkit-tap-highlight-color: transparent;
